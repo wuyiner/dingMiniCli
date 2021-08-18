@@ -1,0 +1,19 @@
+{
+  "name": "dingminicli_wu",
+  "version": "1.0.18",
+  "description": "钉钉小程序脚手架",
+  "main": "index.js",
+  "bin": {
+    "ding-cli": "bin/bin.js"
+  },
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "child_process": "^1.0.2",
+    "commander": "^8.1.0",
+    "fs-extra": "^10.0.0",
+    "inquirer": "^8.1.2"
+  }
+}
